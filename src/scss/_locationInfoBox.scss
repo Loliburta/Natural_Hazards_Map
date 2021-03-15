@@ -1,0 +1,33 @@
+.locationInfo {
+  position: absolute;
+  top: 80px;
+  right: 50px;
+  width: 400px;
+  min-height: 200px;
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.6);
+  border-radius: 10px;
+  font-size: 18px;
+  color: #fff;
+  font-family: "Titillium Web", sans-serif;
+  font-weight: 400;
+}
+.locationInfo--hidden {
+  display: none;
+}
+.locationInfo__xIcon {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  cursor: pointer;
+  font-size: 2rem;
+  color: lightgray;
+  z-index: 1000;
+}
+.locationInfo__list {
+  list-style-type: none;
+  padding: 0;
+}
+.locationInfo__list__item {
+  padding: 5px 0;
+}
