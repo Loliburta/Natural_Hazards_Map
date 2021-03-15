@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Natural_Hazards_Map/static/css/main.6e379d29.chunk.css",
+    "main.js": "/Natural_Hazards_Map/static/js/main.1bd94ae1.chunk.js",
+    "main.js.map": "/Natural_Hazards_Map/static/js/main.1bd94ae1.chunk.js.map",
+    "runtime-main.js": "/Natural_Hazards_Map/static/js/runtime-main.91000b9b.js",
+    "runtime-main.js.map": "/Natural_Hazards_Map/static/js/runtime-main.91000b9b.js.map",
+    "static/js/2.add34220.chunk.js": "/Natural_Hazards_Map/static/js/2.add34220.chunk.js",
+    "static/js/2.add34220.chunk.js.map": "/Natural_Hazards_Map/static/js/2.add34220.chunk.js.map",
+    "index.html": "/Natural_Hazards_Map/index.html",
+    "static/css/main.6e379d29.chunk.css.map": "/Natural_Hazards_Map/static/css/main.6e379d29.chunk.css.map",
+    "static/js/2.add34220.chunk.js.LICENSE.txt": "/Natural_Hazards_Map/static/js/2.add34220.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91000b9b.js",
+    "static/js/2.add34220.chunk.js",
+    "static/css/main.6e379d29.chunk.css",
+    "static/js/main.1bd94ae1.chunk.js"
+  ]
+}
